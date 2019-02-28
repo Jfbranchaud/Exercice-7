@@ -393,8 +393,8 @@ template {
 
 @-webkit-keyframes animtitre {
   from {
-    -webkit-transform: translateY(-50vh);
-            transform: translateY(-50vh);
+    -webkit-transform: translateY(-20vh);
+            transform: translateY(-20vh);
   }
   to {
     -webkit-transform: translateY(0%);
@@ -404,8 +404,8 @@ template {
 
 @keyframes animtitre {
   from {
-    -webkit-transform: translateY(-50vh);
-            transform: translateY(-50vh);
+    -webkit-transform: translateY(-20vh);
+            transform: translateY(-20vh);
   }
   to {
     -webkit-transform: translateY(0%);
