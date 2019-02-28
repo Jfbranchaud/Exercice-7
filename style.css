@@ -473,13 +473,12 @@ template {
 }
 
 .site-branding > .site-title {
-  background-color: red;
+  background-color: gainsboro;
   font-size: 2em;
 }
 
 .site-branding > .site-description {
-  color: red;
-  background: ghostwhite;
+  color: white;
   font-size: 1em;
 }
 
