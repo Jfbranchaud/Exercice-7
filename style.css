@@ -387,8 +387,8 @@ template {
 # animation
 --------------------------------------------------------------*/
 .animtitre {
-  -webkit-animation: animtitre 5s;
-          animation: animtitre 5s;
+  -webkit-animation: animtitre 2s;
+          animation: animtitre 2s;
 }
 
 @-webkit-keyframes animtitre {
@@ -414,14 +414,14 @@ template {
 }
 
 .animdescription {
-  -webkit-animation: animdescription 5s;
-          animation: animdescription 5s;
+  -webkit-animation: animdescription 2s;
+          animation: animdescription 2s;
 }
 
 @-webkit-keyframes animdescription {
   from {
-    -webkit-transform: translateX(40vh);
-            transform: translateX(40vh);
+    -webkit-transform: translateX(200vh);
+            transform: translateX(200vh);
   }
   to {
     -webkit-transform: translateX(0%);
@@ -431,8 +431,8 @@ template {
 
 @keyframes animdescription {
   from {
-    -webkit-transform: translateX(40vh);
-            transform: translateX(40vh);
+    -webkit-transform: translateX(200vh);
+            transform: translateX(200vh);
   }
   to {
     -webkit-transform: translateX(0%);

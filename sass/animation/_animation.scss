@@ -1,5 +1,5 @@
 .animtitre{
-    animation: animtitre 5s;
+    animation: animtitre 2s;
 
 
 }
@@ -18,14 +18,14 @@
 }
 
 .animdescription{
-animation: animdescription 5s;
+animation: animdescription 2s;
 
 }
 
 //animation de la description
 @keyframes animdescription {
     from {
-        transform: translateX(40vh);
+        transform: translateX(200vh);
 
     }
 
